@@ -1,5 +1,8 @@
 v
 d HEAD
+d #!/bin/bash
+d HEAD
+ALX School is cool!
 
 #!/bin/bash
 <<<<<<< HEAD
